@@ -10,6 +10,6 @@ podría tener con tu perfil profesional:
 
 **Entrega**: escribe un texto corto donde expliques qué potencial crees que pueda tener el arte generativo y algorítmico en tu perfil profesional.
 
-*reflexión*: Una de las cosas que más potencial tiene es la rapidez con la que puedo generar múltiples versiones de una idea. En lugar de empezar de cero con cada intento, el algoritmo produce distintas iteraciones en segundos, lo que me permite ver cómo ciertos cambios afectan el resultado final. Esta capacidad para experimentar con rapidez y sin límites me permite y permitira abrirme a ideas nuevas y probar combinaciones que, de otro modo, habrían quedado fuera de mi alcance.
+**Reflexión**: Una de las cosas que más potencial tiene es la rapidez con la que puedo generar múltiples versiones de una idea. En lugar de empezar de cero con cada intento, el algoritmo produce distintas iteraciones en segundos, lo que me permite ver cómo ciertos cambios afectan el resultado final. Esta capacidad para experimentar con rapidez y sin límites me permite y permitira abrirme a ideas nuevas y probar combinaciones que, de otro modo, habrían quedado fuera de mi alcance.
 
 Además, el arte generativo me ha liberado de muchas tareas técnicas repetitivas, lo que me permite concentrarme en la parte más conceptual y creativa de mi trabajo. Ya no tengo que preocuparme tanto por los detalles técnicos, lo que me deja espacio para arriesgarme más y explorar ideas complejas.
