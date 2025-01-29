@@ -12,5 +12,52 @@ una figura formada completamente por lineas diagonales
 
 **¿Qué resultados obtuviste?**
 
+el resultado esperado donde el walker solo podia moverse diagonalmente
+
 **¿Qué aprendiste de este experimento?**
 
+como usar numeros aleatorios para desplazar un objeto 
+
+**codigo modificado**
+
+let walker;
+
+function setup() {
+  createCanvas(640, 240);
+  walker = new Walker();
+  background(255);
+}
+
+function draw() {
+  walker.step();
+  walker.show();
+}
+
+class Walker {
+  constructor() {
+    this.x = width / 2;
+    this.y = height / 2;
+  }
+
+  show() {
+    stroke(0);
+    point(this.x, this.y);
+  }
+
+  step() {
+    let step = floor(random(4)); // 0, 1, 2, 3
+    if (step === 0) {
+      this.x += 1;
+      this.y += 1;
+    } else if (step === 1) {
+      this.x += 1;
+      this.y -= 1;
+    } else if (step === 2) {
+      this.x -= 1;
+      this.y += 1;
+    } else if (step === 3) {
+      this.x -= 1;
+      this.y -= 1;
+    }
+  }
+}
