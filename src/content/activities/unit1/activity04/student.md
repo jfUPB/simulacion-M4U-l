@@ -47,4 +47,5 @@ function captureScreen() {
   saveCanvas('walker_screenshot', 'png'); // Guarda la pantalla como una imagen PNG
 }
 
-![]([https://github.com/jfUPB/simulacion-M4U-l/blob/main/src/assets/Uni1Act3.png](https://github.com/jfUPB/simulacion-M4U-l/blob/main/src/assets/Uni1Act4.png))
+
+![](https://github.com/jfUPB/simulacion-M4U-l/blob/main/src/assets/Uni1Act4.png)
