@@ -61,3 +61,6 @@ class Walker {
     }
   }
 }
+
+
+![](https://github.com/jfUPB/simulacion-M4U-l/blob/main/src/assets/Uni1Act3.png)
