@@ -18,7 +18,7 @@ el resultado esperado donde el walker solo podia moverse diagonalmente
 
 como usar numeros aleatorios para desplazar un objeto 
 
-**codigo modificado**
+```javascript
 
 let walker;
 
@@ -61,6 +61,6 @@ class Walker {
     }
   }
 }
-
+```
 
 ![](https://github.com/jfUPB/simulacion-M4U-l/blob/main/src/assets/Uni1Act3.png)
