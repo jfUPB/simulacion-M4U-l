@@ -1,3 +1,4 @@
+```javascript
 function setup() {
   createCanvas(500, 500);
 
@@ -22,7 +23,7 @@ function draw() {
   y = 75;
   circle(x, y, 5);
 }
-
+```
 ![](https://github.com/jfUPB/simulacion-M4U-l/blob/main/src/assets/Uni1Act5.png)
 
 la distribucion gaussiana se refleja en la forma en la que se generan las lineas, dado que siempre se llena de circulos en el centro de forma mas rapida y mas lenta en lso extremos 
