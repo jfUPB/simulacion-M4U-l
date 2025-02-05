@@ -8,7 +8,7 @@ El concepto de Lévy flight se refiere a un tipo de movimiento aleatorio que se 
 
 **Generación de rutas aleatorias**: Si estás trabajando en la creación de rutas o trayectorias aleatorias para algo como videojuegos o sistemas autónomos (drones, robots, etc.), un comportamiento tipo Lévy podría ayudar a generar rutas más naturales o realistas, en comparación con patrones de movimiento más predecibles como el random walk tradicional
 
-
+```javascript
 let x, y; 
 let path = []; 
 function setup() {
@@ -54,6 +54,7 @@ function levyStep() {
 function captureScreen() {
   saveCanvas('walker_screenshot', 'png'); // Guarda la pantalla como una imagen PNG
 }
+```
 
 ![](https://github.com/jfUPB/simulacion-M4U-l/blob/main/src/assets/Uni1Act6.png)
 
