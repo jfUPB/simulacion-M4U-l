@@ -1,0 +1,1 @@
+creo que lo que mas me costo con la parte de aplly fue la implementacion de la interación con estimulos externos como el mouse y teclado, dado que en los ejercicios anteriores no habiamos tenido este tipo de inputs por lo que se me hizo algo extraño y en un punto complicado 
