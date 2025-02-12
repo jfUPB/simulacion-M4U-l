@@ -1,3 +1,4 @@
+``` java
 let v3; 
 let t = 0; 
 
@@ -41,3 +42,4 @@ function drawArrow(base, vec, myColor) {
     triangle(0, arrowSize / 2, 0, -arrowSize / 2, arrowSize, 0);
     pop();
 }
+```
