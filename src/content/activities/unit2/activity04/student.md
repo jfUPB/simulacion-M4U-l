@@ -23,11 +23,11 @@ Le diría: El método dot() calcula cuánto se alinean dos vectores, midiendo la
 - Versión de instancia (v1.dot(v2)): Se llama sobre un vector (v1) y toma como parámetro otro vector (v2), y calcula el producto punto entre ambos.
 - Versión estática (p5.Vector.dot(v1, v2)): Se llama directamente a la clase p5.Vector y también toma dos vectores (v1, v2) como parámetros. Es equivalente a usar la versión de instancia
 
-###¿Cuál es la interpretación geométrica del producto cruz de dos vectores?
+### ¿Cuál es la interpretación geométrica del producto cruz de dos vectores?
 
 el producto cruz mide la "cantidad" de diferencia entre los dos vectores a través de su magnitud, sino que también nos da un vector que pertenece a un plano perpendicular a los vectores originales
 
-###¿Para que te puede servir el método dist()?
+### ¿Para que te puede servir el método dist()?
 
 El método **dist()** se utiliza para calcular la distancia entre dos puntos en el espacio, que están representados por vectores
 
