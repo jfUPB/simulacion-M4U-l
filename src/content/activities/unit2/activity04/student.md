@@ -1,3 +1,5 @@
+### ¿Para qué sirve el método mag()?
+
 El método **mag()** se utiliza para calcular la longitud de un vector en el espacio 2D. se calcula utilizando el teorema de Pitágoras
 Este valor representa la "distancia" desde el origen (0, 0) hasta el punto \((x, y)\)
 
@@ -8,8 +10,8 @@ Por otro lado, el método magSq() calcula la magnitud del vector al cuadrado
 - **magSq()** devuelve la magnitud al cuadrado, que es útil cuando solo te interesa comparar magnitudes o realizar operaciones que no requieren la raíz cuadrada
 
 ### ¿Cuál es más eficiente?
-El método **magSq()** es más eficiente que mag() porque no necesita calcular la raíz cuadrada. Si solo necesitas comparar las magnitudes de diferentes vectores o hacer cálculos donde la raíz cuadrada no sea necesaria, es mejor usar magSq() porque evita un cálculo adicional 
 
+El método **magSq()** es más eficiente que mag() porque no necesita calcular la raíz cuadrada. Si solo necesitas comparar las magnitudes de diferentes vectores o hacer cálculos donde la raíz cuadrada no sea necesaria, es mejor usar magSq() porque evita un cálculo adicional 
 
 ### ¿Para qué sirve el método normalize()?
 El método **normalize()** convierte un vector en un **vector unitario**, es decir, lo escala para que su magnitud sea 1, manteniendo su dirección. Esto es útil cuando solo se necesita la dirección de un vector sin preocuparse por su longitud
@@ -24,7 +26,6 @@ Le diría: El método dot() calcula cuánto se alinean dos vectores, midiendo la
 ###¿Cuál es la interpretación geométrica del producto cruz de dos vectores?
 
 el producto cruz mide la "cantidad" de diferencia entre los dos vectores a través de su magnitud, sino que también nos da un vector que pertenece a un plano perpendicular a los vectores originales
-
 
 ###¿Para que te puede servir el método dist()?
 
