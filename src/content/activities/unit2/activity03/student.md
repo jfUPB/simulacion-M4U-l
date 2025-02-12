@@ -20,7 +20,7 @@ En JavaScript, existen dos formas principales de pasar datos a las funciones:
 
 **4. ¿Qué tipo de paso se está realizando en el código?**
 
-En el código, se está utilizando **paso por referencia**. Estás pasando un vector p5.Vector a la función "playingVector()", que es un objeto en memoria. Como los objetos se pasan por referencia en JavaScript, cualquier cambio que realices dentro de la función (en este caso, cambiar las coordenadas x y del vector) afectará directamente al objeto 
+En el código, se está utilizando paso por referencia. Estás pasando un vector p5.Vector a la función "playingVector()", que es un objeto en memoria. Como los objetos se pasan por referencia en JavaScript, cualquier cambio que realices dentro de la función (en este caso, cambiar las coordenadas x y del vector) afectará directamente al objeto 
 
 **5. ¿Qué aprendiste?**
 
