@@ -1,5 +1,5 @@
 **motion 101** es un metodo de movimiento psudoaleatorio mediante la utilización de vectores 
-```
+``` java
 class Mover{
   constructor(){
     this.position = createVector(width/2,height/2);
