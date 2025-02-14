@@ -1,6 +1,6 @@
 ``` java
 let v3; 
-let t = 0; 
+let t = 0;
 
 function setup() {
     createCanvas(300, 300);
@@ -13,7 +13,9 @@ function draw() {
     let v0 = createVector(100, 100);
     let v1 = createVector(120, 0);
     let v2 = createVector(0, 120);
-    let v4 = createVector(120, 120);
+    let v1_end = createVector(v0.x + v1.x, v0.y + v1.y);
+    let v2_end = createVector(v0.x + v2.x, v0.y + v2.y);
+    let v4 = createVector(v2_end.x - v1_end.x, v2_end.y - v1_end.y);
 
     v3 = p5.Vector.lerp(v1, v2, t); 
 
@@ -23,10 +25,8 @@ function draw() {
     drawArrow(v0, v1, 'red');
     drawArrow(v0, v2, 'blue');
     drawArrow(v0, v3, 'purple'); 
-    drawArrow(v0, v4, 'green'); 
+    drawArrow(v1_end, v4, 'green');  
 
-    stroke(0);
-    line(v1.x, v1.y, v3.x, v3.y); 
 }
 
 function drawArrow(base, vec, myColor) {
