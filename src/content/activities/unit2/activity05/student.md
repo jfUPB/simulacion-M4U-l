@@ -4,7 +4,6 @@ let t = 0;
 
 function setup() {
     createCanvas(300, 300);
-    v3 = createVector(120, 0); 
 }
 
 function draw() {
@@ -42,4 +41,5 @@ function drawArrow(base, vec, myColor) {
     triangle(0, arrowSize / 2, 0, -arrowSize / 2, arrowSize, 0);
     pop();
 }
+
 ```
