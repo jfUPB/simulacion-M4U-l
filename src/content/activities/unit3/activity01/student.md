@@ -1,4 +1,4 @@
-1. ** Gravedad**
+1. **Gravedad**
    - Descripción: La gravedad es la fuerza que atrae los objetos hacia el centro de la Tierra. En este caso, un libro sobre una mesa se ve afectado por la gravedad, la cual lo tira hacia abajo
    - Inspiración para arte generativo: Las esculturas móviles de **Alexander Calder** que exploran el equilibrio dinámico y la interacción entre diferentes piezas en movimiento me inspiran a crear simulaciones generativas donde las formas geométricas se ajustan y encuentran equilibrio según la gravedad. Podrías usar algoritmos para crear estructuras móviles que interactúan con fuerzas de atracción y reacción, como si estuvieran bajo la influencia de la gravedad
 
