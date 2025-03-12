@@ -25,16 +25,6 @@ En este fragmento, la aceleración se calcula en función de la distancia entre 
 
 La aceleración calculada en esta unidad tiene todo que ver con las **leyes del movimiento de Newton**, específicamente la **segunda ley**. Según esta ley, la aceleración de un objeto es directamente proporcional a la fuerza neta que actúa sobre él e inversamente proporcional a su masa. Esto se expresa en la fórmula:
 
-\[
-F = ma
-\]
-
-Donde:
-- \(F\) es la **fuerza** neta aplicada sobre el objeto.
-- \(m\) es la **masa** del objeto.
-- \(a\) es la **aceleración** resultante.
-
-
 **Código de ejemplo relacionado con las leyes de movimiento de Newton:**
 
 
