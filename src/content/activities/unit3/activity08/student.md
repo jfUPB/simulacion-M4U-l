@@ -6,7 +6,6 @@ Cuando se pasa una copia de un valor a una variable, se está trabajando con una
 
 En el caso de los objetos como arrays, funciones, etc., pasar por referencia significa que, en lugar de copiar el objeto, pasamos la dirección de memoria donde está almacenado el objeto. Esto quiere decir que si modificamos la variable que contiene la referencia, estamos modificando el objeto original, no una copia.
 
----
 
 #### Diferencia en el código:
 
