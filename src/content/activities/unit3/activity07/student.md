@@ -3,6 +3,8 @@
 
 El problema principal es que, cuando modificamos force dentro de applyForce, este cambio se refleja fuera de la función, ya que el objeto force fue pasado por referencia. Así que la próxima vez que pases el mismo objeto force a applyForce, ya no tendrá el valor que esperamos. 
 
+Lo que queremos es preservar el objeto original y hacer los cálculos con una copia del vector force para evitar modificarlo fuera de la función. Para esto, podemos hacer una copia del vector antes de realizar las operaciones.
+
 ```javascript
 applyForce(force) {
     let f = force.copy();   // Hacemos una copia del vector de fuerza
