@@ -17,13 +17,13 @@ let friction = this.velocity;
 
 Primera línea: let friction = this.velocity.copy();
 
-    Aquí this.velocity.copy() crea una copia del objeto this.velocity. El método .copy() devuelve una nueva instancia de un vector con los mismos valores que this.velocity, pero es independiente de él.
+Aquí this.velocity.copy() crea una copia del objeto this.velocity. El método .copy() devuelve una nueva instancia de un vector con los mismos valores que this.velocity, pero es independiente de él.
    
-    Esto es paso por valor porque estamos trabajando con una copia del vector, no con el vector original.
+Esto es paso por valor porque estamos trabajando con una copia del vector, no con el vector original.
 
 Segunda línea: let friction = this.velocity;
 
-    En esta línea, simplemente estamos asignando this.velocity a friction. Esto no crea una copia del vector, más bien friction y this.velocity apuntan al mismo objeto en memoria.
+En esta línea, simplemente estamos asignando this.velocity a friction. Esto no crea una copia del vector, más bien friction y this.velocity apuntan al mismo objeto en memoria.
    
 
 
