@@ -1,0 +1,8 @@
+**Proyecciones de Animaciones 3D sobre Superficies Físicas:**
+Se utilizarían proyectores de alta definición para proyectar animaciones 3D sobre las esculturas y otros objetos presentes en el espacio. Estas animaciones no serían estáticas, sino que cambiarían en función de la interacción de los visitantes, creando un juego visual que combina lo digital con lo físico. Por ejemplo, al tocar una escultura, una animación 3D podría “desprenderse” de la superficie de la escultura, proyectándose hacia las paredes y el techo, transformando el entorno a medida que la animación cambia
+
+**Realidad Aumentada (RA):**
+Los visitantes podrían utilizar dispositivos móviles o gafas de RA para ver una capa digital añadida al entorno físico. Esta capa de RA podría permitirles interactuar de manera más profunda con las esculturas y las animaciones. Por ejemplo, a través de RA, podrían "ver" las animaciones digitales de los objetos en 3D a medida que interactúan físicamente con ellos, creando una experiencia de interacción directa entre lo digital y lo físico
+
+**Juego y Experimentación:**
+El componente de videojuegos entra en juego al permitir que los visitantes participen en una experiencia de juego inmersiva en la que puedan influir en las esculturas y proyecciones a través de sus movimientos, decisiones o gestos. Los jugadores podrían, por ejemplo, modificar el comportamiento de las esculturas o desbloquear nuevas animaciones al interactuar con los diferentes elementos del entorno. Esto crearía una experiencia colaborativa, donde los visitantes influyen en la obra de manera directa, creando una narrativa que se desarrolla con su participación
