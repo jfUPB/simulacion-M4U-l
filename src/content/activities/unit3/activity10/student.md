@@ -1,6 +1,6 @@
 ### Fricción
 
-´´´
+´´´js
 let ball;
 let friction = 0.1;
 
@@ -55,7 +55,7 @@ https://editor.p5js.org/M4U-l/sketches/Yj0-vbApP
 
 ### Resistencia al aire y fluidos
 
-´´´
+´´´js
 let object;
 let gravity = 0.2;
 let airResistance = 0.02;  
@@ -118,7 +118,7 @@ https://editor.p5js.org/M4U-l/sketches/C9GtCdX1q
 
 ### Gravedad
 
-´´´ 
+´´´js
 let objeto;
 let planeta;
 let G = 0.1;  
