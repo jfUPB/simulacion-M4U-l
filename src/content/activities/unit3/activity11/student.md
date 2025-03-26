@@ -93,7 +93,7 @@ Para esta simulación, me inspiré en las esculturas cinéticas de Alexander Cal
 Las trayectorias de los cuerpos se muestran como líneas, lo que permite observar cómo sus movimientos se desarrollan con el tiempo.
 
 
-###link de la simulacion
+### link de la simulacion
 
 https://editor.p5js.org/M4U-l/sketches/oXluaROH9
 
