@@ -1,6 +1,6 @@
 ### Fricción
 
-´´´js
+```js
 let ball;
 let friction = 0.1;
 
@@ -45,7 +45,7 @@ class Ball {
   }
 }
 
-´´´
+```
 
 Explicación: La fricción se modela reduciendo la velocidad del objeto en cada fotograma, aplicando un coeficiente de fricción.
 
@@ -55,7 +55,7 @@ https://editor.p5js.org/M4U-l/sketches/Yj0-vbApP
 
 ### Resistencia al aire y fluidos
 
-´´´js
+```js
 let object;
 let gravity = 0.2;
 let airResistance = 0.02;  
@@ -107,7 +107,7 @@ class FallingObject {
   }
 }
 
-´´´
+```
 
 Explicación: La resistencia del aire se modela como una fuerza proporcional al cuadrado de la velocidad (velX * velX).
 A medida que el objeto se mueve, esta resistencia reduce su velocidad hasta que el objeto se detiene.
@@ -118,7 +118,7 @@ https://editor.p5js.org/M4U-l/sketches/C9GtCdX1q
 
 ### Gravedad
 
-´´´js
+```js
 let objeto;
 let planeta;
 let G = 0.1;  
@@ -206,7 +206,7 @@ class Planet {
   }
 }
 
-´´´
+```
 
 Clase Ball (objeto):
 
