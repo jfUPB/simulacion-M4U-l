@@ -3,9 +3,8 @@ La fricción puede ser estática o cinética, La fricción estática se aplica c
 
 **Definir la fórmula matemática**
    La fuerza de fricción cinética se calcula con:
-   \[
-   F_{\text{fricción}} = \mu \cdot N
-   \]
+   
+   **Ffriccion=μ⋅N**
 
 **Ajustar el coeficiente de fricción**
    Los valores de \( \mu \) deben ser ajustados según la friccion que este experimentando el objeto.
