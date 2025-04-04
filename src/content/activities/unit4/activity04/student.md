@@ -1,0 +1,5 @@
+Motion 101 establece que un objeto en movimiento tiene velocidad y aceleración. Sin embargo, cuando se incorporan fuerzas acumulativas, es necesario modificar el código para que las fuerzas se sumen a la aceleración en cada ciclo del draw(), asegurando un comportamiento realista. Esto es crucial porque, en el mundo real, las fuerzas afectan los objetos de forma continua, alterando su aceleración y, en consecuencia, su velocidad.
+
+En la simulación, el Attractor es el objeto que atrae a los demás. Para cambiar su color, se debe modificar la función de dibujo dentro de su clase, ajustando los valores de fill() para cambiar el color de su representación.
+
+Para permitir que el Attractor se mueva con el mouse y cambie de color cuando el cursor pase sobre él, se pueden modificar los atributos this.dragging y this.rollover. Usando las funciones de p5.js como mousePressed(), mouseReleased() y mouseDragged(), se puede actualizar su posición al arrastrarlo y cambiar su color cuando el mouse esté sobre él. Esto mejora la interactividad de la simulación, permitiendo manipular el Attractor de manera intuitiva.
