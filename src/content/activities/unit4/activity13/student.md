@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8b81e742-2497-4c69-984d-215dca05d70f)### ¿Qué estrategias de aprendizaje utilizaste?
+### ¿Qué estrategias de aprendizaje utilizaste?
 
 probando código, modificando parámetros y observando los resultados directamente.
 
