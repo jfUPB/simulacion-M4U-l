@@ -1,0 +1,1 @@
+El prinsipal desafio al que me enfrente en esta unidad fue la aplicación del movimiento de las figuras, dado que me ahorre gran parte de la programación al reutilizar el proyecto de la unidad 1, me pude centrar en la programación aprendida en esta unidad unicamente
