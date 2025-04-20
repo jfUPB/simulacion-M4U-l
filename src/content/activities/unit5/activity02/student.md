@@ -95,3 +95,7 @@ A cada partícula se le da un ciclo de vida: nace, se mueve, envejece y desapare
 ## Gestion de particulas y memoria
 
 La memoria se gestiona eliminando manualmente las partículas que ya no se usan (splice()), de esta forma evitamos que el array particles[] crezca infinitamente, lo cual previene fugas de memoria y mantiene el programa optimizado.
+
+## imagen
+
+![](https://github.com/jfUPB/simulacion-M4U-l/blob/main/src/assets/Uni5Act2Img1.png)
