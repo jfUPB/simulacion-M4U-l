@@ -9,3 +9,5 @@ podría tener con tu perfil profesional:
 - [Artist Spotlight | Who is Refik Anadol?](https://youtu.be/zBYVm2wYzDU?si=IOUOOhTEr5l9qTu1)
 
 **Entrega**: escribe un texto corto donde expliques qué potencial crees que pueda tener el arte generativo y algorítmico en tu perfil profesional.
+
+
